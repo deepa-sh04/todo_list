@@ -1,4 +1,6 @@
-
+# Create README.md in main project folder
+@'
+# Todo App - React + Node.js + MongoDB
 
 A full-stack Todo application with modern web technologies.
 
